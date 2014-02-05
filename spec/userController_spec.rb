@@ -11,10 +11,12 @@ describe UsersController do
 
 	it 'should identify as users page' do
 		get '/users'
-		puts last_response
 		expect(last_response).to be_ok
-		expect(last_response.body).to eq("e")
+		expect(last_response.body).to eq("Work in progress mike")
 	end
 
-	
+	it 'should search for users' do
+		expect(User).to receive(:find).with 2
+		get '/users/2'
+	end
 end
