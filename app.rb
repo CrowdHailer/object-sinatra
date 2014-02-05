@@ -1,5 +1,7 @@
-require 'sinatra'
+require 'sinatra/base'
 
-get '/' do
-	"Work in progress Dave"
+class HomeController < Sinatra::Base
+	get '/' do
+		"Work in progress Dave"
+	end
 end
