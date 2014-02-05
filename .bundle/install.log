@@ -4,3 +4,14 @@ I, [2014-02-05T15:54:47.600550 #6916]  INFO -- : 0:  rack-protection (1.5.2) fro
 I, [2014-02-05T15:54:47.600908 #6916]  INFO -- : 0:  tilt (1.4.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
 I, [2014-02-05T15:54:47.601198 #6916]  INFO -- : 0:  sinatra (1.4.4) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-02-05T15:54:47.601451 #6916]  INFO -- : 0:  bundler (1.5.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-05T15:59:48.088222 #6937]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-05T15:59:48.088644 #6937]  INFO -- : 0:  rack (1.5.2) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-05T15:59:48.088942 #6937]  INFO -- : 0:  rack-protection (1.5.2) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-05T15:59:50.440966 #6937]  INFO -- : 0:  rack-test (0.6.2) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-05T15:59:50.441444 #6937]  INFO -- : 0:  rspec-core (2.14.7) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-05T15:59:53.232442 #6937]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-05T15:59:58.759438 #6937]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-05T15:59:58.759871 #6937]  INFO -- : 0:  rspec (2.14.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-02-05T15:59:58.760179 #6937]  INFO -- : 0:  tilt (1.4.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-05T15:59:58.760473 #6937]  INFO -- : 0:  sinatra (1.4.4) from /Users/petersaxton/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-05T15:59:58.760753 #6937]  INFO -- : 0:  bundler (1.5.1) from /Users/petersaxton/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
