@@ -1,4 +1,4 @@
-require 'sinatra/base'
+require 'sinatra'
 require './lib/usersController'
 
 class HomeController < Sinatra::Base
@@ -6,7 +6,7 @@ class HomeController < Sinatra::Base
 		"Work in progress Dave"
 	end
 
-	get '/users' do
+	get '/users*' do
 		UsersController.call(env)
 	end
 end
